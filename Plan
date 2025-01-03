@@ -1,0 +1,16 @@
+#EcoBot
+
+## Desripsi
+Membuat bot discord yang membantu user untuk berkontribusi dalam menghemat maupun mencegah adanya kerusakan lingkungan melalui menghemat energi dan memilah sampah dengan baik. 
+
+## Bahan
+* Tensorflow
+* Dataset
+* Discord py
+
+## Fitur
+* Deteksi Sampah
+* User dapat mengupload gambar sampah, dan bot akan memberikan penjelasan akan sampah tersebut spt golongan, cara membuang, cara daur ulang
+
+* Hemat Energi
+* Bot akan memberikan tips yang berbeda-beda dari preset 1-3 (berjumlah 3 masing" set) ketika user berada di lingkungan yang berbeda-beda.
